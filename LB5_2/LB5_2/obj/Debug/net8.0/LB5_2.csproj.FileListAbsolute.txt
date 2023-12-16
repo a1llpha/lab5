@@ -1,0 +1,14 @@
+E:\Something(uni)\LB5_2\LB5_2\bin\Debug\net8.0\LB5_2.exe
+E:\Something(uni)\LB5_2\LB5_2\bin\Debug\net8.0\LB5_2.deps.json
+E:\Something(uni)\LB5_2\LB5_2\bin\Debug\net8.0\LB5_2.runtimeconfig.json
+E:\Something(uni)\LB5_2\LB5_2\bin\Debug\net8.0\LB5_2.dll
+E:\Something(uni)\LB5_2\LB5_2\bin\Debug\net8.0\LB5_2.pdb
+E:\Something(uni)\LB5_2\LB5_2\obj\Debug\net8.0\LB5_2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Something(uni)\LB5_2\LB5_2\obj\Debug\net8.0\LB5_2.AssemblyInfoInputs.cache
+E:\Something(uni)\LB5_2\LB5_2\obj\Debug\net8.0\LB5_2.AssemblyInfo.cs
+E:\Something(uni)\LB5_2\LB5_2\obj\Debug\net8.0\LB5_2.csproj.CoreCompileInputs.cache
+E:\Something(uni)\LB5_2\LB5_2\obj\Debug\net8.0\LB5_2.dll
+E:\Something(uni)\LB5_2\LB5_2\obj\Debug\net8.0\refint\LB5_2.dll
+E:\Something(uni)\LB5_2\LB5_2\obj\Debug\net8.0\LB5_2.pdb
+E:\Something(uni)\LB5_2\LB5_2\obj\Debug\net8.0\LB5_2.genruntimeconfig.cache
+E:\Something(uni)\LB5_2\LB5_2\obj\Debug\net8.0\ref\LB5_2.dll
